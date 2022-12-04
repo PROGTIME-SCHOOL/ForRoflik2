@@ -1,0 +1,15 @@
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\bin\Debug\netcoreapp6.0\SumAdd.exe
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\bin\Debug\netcoreapp6.0\SumAdd.deps.json
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\bin\Debug\netcoreapp6.0\SumAdd.runtimeconfig.json
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\bin\Debug\netcoreapp6.0\SumAdd.dll
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\bin\Debug\netcoreapp6.0\SumAdd.pdb
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.AssemblyInfoInputs.cache
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.AssemblyInfo.cs
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.dll
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\refint\SumAdd.dll
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.pdb
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\SumAdd.genruntimeconfig.cache
+C:\Users\viosagmir\source\repos\ForRoflik2\ForRoflik2\obj\Debug\netcoreapp6.0\ref\SumAdd.dll
